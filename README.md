@@ -14,7 +14,6 @@ The Multi-Language Code Editor is a web-based application designed to support HT
 ## Technologies Used
 
 - **React**: For building the user interface.
-- **CodeMirror**: For advanced code editing functionalities.
 - **HTML/CSS/JavaScript**: Core technologies for the editor's structure and styling.
 
 ## Installation
